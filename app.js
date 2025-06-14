@@ -1,0 +1,1 @@
+console.log("Assalom alaykum xush kelibsiz bg'atan");
